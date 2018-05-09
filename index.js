@@ -433,7 +433,6 @@
   fetch.polyfill = true
 
   module.exports = fetch
-  module.exports.default = fetch
   module.exports.Headers = Headers
   module.exports.Request = Request
   module.exports.Response = Response
